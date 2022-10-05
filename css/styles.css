@@ -1,0 +1,20 @@
+body {
+  background-color: #F5EFE6;
+}
+hr{
+  background-color:#F5EFE6;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 4px;
+  width: 10%;
+}
+h1{
+ color: #7C3E66;
+  font-family: ":Cursive";
+}
+h2{
+  color: #7C3E66;
+}
+  h3{
+    color: #7C3E66;
+  }
